@@ -9,7 +9,7 @@ Automated installer of Motioneye for Raspbian. Based on [motioneye's Install on 
 
 ## Usage
 
-```
+```bash
 wget https://theel0ja.info/motioneye-installer/install.sh
 chmod +x install.sh
 ./install.sh
